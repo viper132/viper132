@@ -28,3 +28,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viper132&show_icons=true&locale=en&layout=compact" alt="viper132" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viper132&" alt="viper132" /></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viper132&show_icons=true&theme=tokyonight)
